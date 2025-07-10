@@ -1,3 +1,3 @@
 > ## [July 12]
-  - Start the project
-  - **TODO**: Prepare date format
+  - [ ] Start the project
+  - [ ] Prepare date format
